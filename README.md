@@ -1,4 +1,4 @@
-# Hi 👋 My name is Tim Eschmann
+Hi 👋 My name is Tim Eschmann
 =============================
 
 a High-School Student
