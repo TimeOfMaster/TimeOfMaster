@@ -1,9 +1,3 @@
-Hi 👋 My name is Tim Eschmann
-=============================
-
-a High-School Student
----------------------
-
 * 🌍  I'm based in Germany
 
 
